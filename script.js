@@ -1,0 +1,1 @@
+console.log('Suntinco website loaded');
